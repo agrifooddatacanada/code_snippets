@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Code Snippets
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - name: Agri-food Data Canada
+    location: '50 Stone Road East, University of Guelph'
+    post-code: N1G 2W1
+    country: CA
+    city: Gueph
+    email: adc@uoguelph.ca
+    website: 'https://agrifooddatacanada.ca'
+    tel: (226) 971-0357
+repository-code: 'https://github.com/agrifooddatacanada/code_snippets'
+abstract: >-
+  A collection of example code snippets used for
+  instructional purposes.
+keywords:
+  - code examples
+  - agri-food
+  - instructional
+license: CC0-1.0
